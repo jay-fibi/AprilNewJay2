@@ -1,0 +1,18 @@
+{
+  "pageTitle": "Login",
+  "pageUrl": "file:///Users/jaygohil/Desktop/27-Apr/login.html",
+  "emailValue": "tester@example.com",
+  "passwordHasValue": true,
+  "rememberChecked": true,
+  "formSubmitted": true,
+  "scrollY": 627,
+  "maxScrollY": 627,
+  "events": [
+    "input text into email field",
+    "input text into password field",
+    "clicked checkbox button-like element",
+    "form submitted",
+    "clicked Login button and submitted form",
+    "scrolled down the page"
+  ]
+}
